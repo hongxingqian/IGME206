@@ -10,7 +10,7 @@ namespace Pokemon
     {
         public Bulbasaur(string a_sNickname) : base(a_sNickname)
         {
-            
+
         }
 
         public Bulbasaur(string a_sNickname, int a_nLevel) : base(a_sNickname, a_nLevel)

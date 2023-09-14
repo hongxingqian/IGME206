@@ -49,7 +49,6 @@ namespace Pokemon
         {
             Console.WriteLine("\n" + this.Nickname + " gets in a fight with monster " + a_monster.Nickname);
             this.Fight(a_monster.Attack);
-            this.Print();
         }
 
         protected void Fight(float a_fIncomingDamage)
